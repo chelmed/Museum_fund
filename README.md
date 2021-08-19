@@ -5,3 +5,15 @@
 Реализация:<br/> 
 **Unzipping_initial_processing.ipynb** - разархивация и удаление пустых и битых файлов.<br/> 
 **Short_models_for_clustering_images.ipynb** - обучаю модели на 8 фолдах, использую только небольшой датасет от организаторов (без доп. данных) в дальнейшем использую модели для кластеризации.
+**Downloading_additional_data.ipynb** - скачивание дполнительных изображений для финальной модели.
+
+**Сreating_training_sample_for_images.ipynb** - кластеризация изображений. По началу была идея кластеризовать денс слоем из 300 нейронов, но работало это на 180К изображений размером 512Х512 очень долго, поэтому кластеризовал распределния с софтмакс, по картинкам видно, что кластеризация выделила правильные сущности (побробней Сreating_training_sample_for_images.ipynb).<br/> 
+
+В типологии документы выделены книги:<br/> 
+![demo](https://github.com/chelmed/Museum_fund/blob/main/doc.png)
+В типологии печатной продукции выделен шум:<br/>
+![demo](https://github.com/chelmed/Museum_fund/blob/main/print_prod.png)
+В типологии нумезматика выделена типология нумезматика:<br/>
+В типологии печатной продукции выделен шум:<br/>
+![demo](https://github.com/chelmed/Museum_fund/blob/main/num.png)
+
