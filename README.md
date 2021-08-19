@@ -15,5 +15,8 @@
 ![demo](https://github.com/chelmed/Museum_fund/blob/main/print_prod.png)<br/> 
 В типологии прочие выделена типология нумезматика:<br/>
 В типологии печатной продукции выделен шум:<br/>
-![demo](https://github.com/chelmed/Museum_fund/blob/main/num.png)
+![demo](https://github.com/chelmed/Museum_fund/blob/main/num.png)<br/>
+
+**Long_model_for_inference_images.ipynb** - Реализация главной модели для инференса.<br/> 
+
 
